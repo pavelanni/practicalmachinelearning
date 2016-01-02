@@ -1,0 +1,10 @@
+---
+title: "Practical Machine Learning Course Project"
+author: "Pavel Anni"
+date: "January 2, 2016"
+output: html_document
+---
+
+This is a sample document, including some of the default Rmd content to illustrate display of the page on a `gh-pages` website until we post actual content related to the Practical Machine Learning course project in January 2016.
+
+
